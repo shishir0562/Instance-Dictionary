@@ -1,7 +1,11 @@
 import xml.etree.ElementTree as ET
 import requests, os, sys, re, bs4, winsound
 
-wavFileName = "" 
+wavFileName = ""
+def shishir():
+    print "change"
+
+    
 def Begins():                                                         # begins application...
     while(True):
         global wavFileName
